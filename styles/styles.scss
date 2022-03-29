@@ -1,0 +1,16 @@
+@import "~tailwindcss/base";
+@import "~tailwindcss/components";
+@import "~tailwindcss/utilities";
+
+@import "./vendor/hamburgers/hamburgers.scss";
+
+//abstracts
+@import "styles/abstracts/variables", "styles/abstracts/settings",
+  "styles/abstracts/mixins", "styles/abstracts/typography",
+  "styles/abstracts/animations", "styles/abstracts/buttons";
+
+//pages
+@import "styles/pages/home";
+
+//components
+@import "styles/components/header", "styles/components/footer";
