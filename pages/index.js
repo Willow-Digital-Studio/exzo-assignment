@@ -7,7 +7,7 @@ export default function About({ data }) {
   return (
     <div>
       <Head>
-        <title>FRONT-END-TEMPLATE</title>
+        <title>EXZO  | Eiken terras 19 cm fijnbezaagd - 2.7 x 19 cm - per m2 (prijs incl. 1 cm voeg) (lengtes 250 cm)</title>
         <meta name="description" content="FRONT-END-TEMPLATE" />
         <meta httpEquiv="Content-Type" content="text/html; charset=utf-8" />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
@@ -17,7 +17,7 @@ export default function About({ data }) {
       {/*content here*/}
 
       <div className="content__item">
-        <p className="link link--metis text-center mt-40 mx-auto">index.js</p>
+        <p className="link link--metis text-center mt-40 mx-auto">EXZO</p>
       </div>
 
     </div>
